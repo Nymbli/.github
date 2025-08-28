@@ -23,4 +23,4 @@
 ### 🚀 Technology Stack
 #### Nymbli is built with TypeScript and WebAssembly at its core, emphasizing performance, scalability, and developer productivity.
 
-[![Tech Stack](https://skillicons.dev/icons?i=ts,wasm,nodejs,vite,react,github)](https://skillicons.dev)
+[![Tech Stack](https://skillicons.dev/icons?i=js,ts,nodejs,mongodb,nextjs,vite,react,tailwind,vue,bash,npm,github)](https://skillicons.dev)
