@@ -1,12 +1,30 @@
-## Hi there 👋
+<h1 align="center">Nymbli 🦇 </h1>
 
-<!--
+<p align="center">
+<img width="168" height="168" alt="image" src="https://github.com/user-attachments/assets/5e46038d-8d32-4061-a0c9-01601445409a" />
+</p>
 
-**Here are some ideas to get you started:**
+<div align="center">
+  <p style="font-size: 10px; color: #ccc;">
+    Nymbli: A fast, lightweight, and productive language for scalable cloud-native and distributed applications.
+  </p>
+</div>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+---
+
+### 💡 Contributing to Nymbli
+#### Nymbli is an open-source language project aimed at simplifying asynchronous programming and concurrency for modern distributed systems. We welcome contributions of all kinds — from documentation and tutorials to core features and tooling. Interested in collaborating? Join our community and help shape the future of cloud-native development.
+
+### 🛡 Community Guidelines
+#### We prioritize a respectful, inclusive, and collaborative environment. Please adhere to our code of conduct and report any issues responsibly.
+
+### 🤝 Collaborate and Grow
+#### Get involved with the language development, runtime improvements, tooling, or ecosystem libraries. Together, we can build a vibrant community and advance modern concurrency programming.
+
+### 📰 Documentation & Resources
+#### Find all language specs, runtime docs, and contribution guides here: **[Docs](https://github.com/your-org/nymbli)**
+
+### 🚀 Technology Stack
+#### Nymbli is built with TypeScript and WebAssembly at its core, emphasizing performance, scalability, and developer productivity.
+
+[![Tech Stack](https://skillicons.dev/icons?i=ts,wasm,nodejs,vite,react,github)](https://skillicons.dev)
