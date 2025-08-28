@@ -1,9 +1,5 @@
 <h1 align="center">Nymbli 🦇 </h1>
 
-<p align="center">
-<img width="168" height="168" alt="image" src="https://github.com/user-attachments/assets/5e46038d-8d32-4061-a0c9-01601445409a" />
-</p>
-
 <div align="center">
   <p style="font-size: 10px; color: #ccc;">
     Nymbli: A fast, lightweight, and productive language for scalable cloud-native and distributed applications.
